@@ -1,6 +1,7 @@
 # NES-Slot-Adapter
 updated NES Slot Adapter
 
+Used KiCad 6.0 to make / edit NES Slot
 
 I have used NES Straight Slot Adapter by Kroshar to make this project come to life  ( https://www.thingiverse.com/thing:4761176 )  STL files 
 
